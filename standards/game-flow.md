@@ -6,8 +6,10 @@ After booting the game, the player will enter the title screen. Only the followi
 * the team's copyright (i.e. "© 2025 Never Cook Again Group"),
 * and a live background with the game's characters doing menial tasks.
 
+After the player presses the continue button(s), show an option to play the game, change some settings, view the credits, and quit the game. 
+
 ## Players get orders from customers
-Players start at the front of the restaurant to receive orders from customers. Each order is unique, including dishes with specific ingredients and five random [special requests](/standards/special-requests/README.md). 
+After the player presses the play button, players start at the front of the restaurant to receive orders from customers. Each order is unique, including dishes with specific ingredients and five random [special requests](/standards/special-requests/README.md). 
 
 ## Players make the food in an intense environment
 * At this point, the three-minute timer starts and the player can pause the game at any time. 
