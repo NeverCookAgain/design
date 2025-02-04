@@ -6,11 +6,10 @@ After booting the game, the player will enter the title screen. It should be tra
 Each player starts at the front of the restaurant to receive the order of the customers. Each order is unique and has specific ingredients and five random [special requests](/standards/special-requests/README.md).
 
 ## Players make the food in an intense environment
-After rece
+TBD
 
 ## Players give the orders to the customers
-After players finish making their 
+TBD
 
 ## Customers judge the food
-
-## Player can play again
+TBD
