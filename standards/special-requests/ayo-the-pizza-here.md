@@ -6,3 +6,4 @@ Trip and fall while holding the pizza.
 
 ## Sabotage methods
 * Steal the pizza from the player before they fall.
+* TBD
