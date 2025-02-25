@@ -3,7 +3,7 @@
 After booting the game, the player will enter the title screen. Only the following events should be present:
 * the game's logo,
 * a text indicating how to move to the next section (i.e. "Press Space to start"),
-* the team's copyright (i.e. "© 2025 Never Cook Again Group"),
+* the team's copyright (i.e. "© 2025 The Never Cook Again Group"),
 * and a live background with the game's characters doing menial tasks.
 
 After the player presses the continue button(s), show an option to play the game, change some settings, view the credits, and quit the game. 
