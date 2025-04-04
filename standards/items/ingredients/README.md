@@ -3,6 +3,7 @@ The game assigns the chefs to five random ingredients to make their masterpiece.
 
 ## List of ingredients
 * [Floor liquid](/standards/items/ingredients/floor-liquid.md)
+* [Lettuce](/standards/items/ingredients/lettuce.md)
 * [Mold](/standards/items/ingredients/mold.md)
 * [Tomatoes](/standards/items/ingredients/tomatoes.md)
 * [Turkey](/standards/items/ingredients/turkey.md)
