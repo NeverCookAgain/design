@@ -11,6 +11,7 @@ The game assigns the chefs to five random ingredients to make their masterpiece.
 * [Olives](/standards/items/ingredients/olives.md)
 * [Onions](/standards/items/ingredients/onions.md)
 * [Pepperoni](/standards/items/ingredients/pepperoni.md)
+* [Peppers](/standards/items/ingredients/peppers.md)
 * [Pork](/standards/items/ingredients/pork.md)
 * [Swiss cheese](/standards/items/ingredients/swiss-cheese.md)
 * [Tomatoes](/standards/items/ingredients/tomatoes.md)
