@@ -7,6 +7,7 @@ The game assigns the chefs to five random ingredients to make their masterpiece.
 * [Floor liquid](/standards/items/ingredients/floor-liquid.md)
 * [Lettuce](/standards/items/ingredients/lettuce.md)
 * [Mold](/standards/items/ingredients/mold.md)
+* [Mozzarella](/standards/items/ingredients/mozzarella.md)
 * [Olives](/standards/items/ingredients/olives.md)
 * [Onions](/standards/items/ingredients/onions.md)
 * [Pepperoni](/standards/items/ingredients/pepperoni.md)
