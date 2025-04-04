@@ -2,6 +2,7 @@
 The game assigns the chefs to five random ingredients to make their masterpiece. They can be found in various locations, or they can be created using specific methods.
 
 ## List of ingredients
+* [Avocado](/standards/items/ingredients/avocado.md)
 * [Beef](/standards/items/ingredients/beef.md)
 * [Chicken](/standards/items/ingredients/chicken.md)
 * [Egg](/standards/items/ingredients/egg.md)
