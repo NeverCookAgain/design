@@ -3,6 +3,7 @@ The game assigns the chefs to five random ingredients to make their masterpiece.
 
 ## List of ingredients
 * [Beef](/standards/items/ingredients/beef.md)
+* [Chicken](/standards/items/ingredients/chicken.md)
 * [Egg](/standards/items/ingredients/egg.md)
 * [Floor liquid](/standards/items/ingredients/floor-liquid.md)
 * [Lettuce](/standards/items/ingredients/lettuce.md)
