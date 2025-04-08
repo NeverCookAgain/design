@@ -21,3 +21,4 @@ The game assigns the chefs to five random ingredients to make their masterpiece.
 * [Toasted bagel](/standards/items/ingredients/toasted-bagel.md)
 * [Tomatoes](/standards/items/ingredients/tomatoes.md)
 * [Turkey](/standards/items/ingredients/turkey.md)
+* [White bread](/standards/items/ingredients/white-bread.md)
