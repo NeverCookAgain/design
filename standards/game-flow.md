@@ -1,4 +1,4 @@
-# Game flow
+# Game Script
 ## Title screen
 After booting the game, the player will enter the title screen. Only the following events should be present:
 * the game's logo,
@@ -8,8 +8,14 @@ After booting the game, the player will enter the title screen. Only the followi
 
 After the player presses the continue button(s), show an option to play the game, change some settings, view the credits, and quit the game. 
 
+## Character Select Screen
+After pressing the play button, the player is given the option of selecting one of 4 characters to play as: Rigatoni, Bill Burgers, Cousin Ricky, and Sweaty Todd
+* These characters are identical in terms of gameplay, with the only difference being their appearance
+In multiplayer games, the game cannot start until each player has picked their character.
+
 ## Players get orders from customers
 After the player presses the play button, players start at the front of the restaurant to receive orders from customers. Each order is unique, including dishes with specific five random ingredients and five random [special requests](/standards/special-requests/README.md). 
+* Customer's orders come in three separate difficulties, signified by their color schemes (Green = 1-star/easy, Blue = 2-stars/medium, Purple = 3-star/hard) 
 
 ## Players make the food in an intense environment
 * At this point, the three-minute timer starts and the player can pause the game at any time. 
