@@ -17,6 +17,7 @@ The game assigns the chefs to five random ingredients to make their masterpiece.
 * [Peppers](/standards/items/ingredients/peppers.md)
 * [Pickles](/standards/items/ingredients/pickles.md)
 * [Pork](/standards/items/ingredients/pork.md)
+* [Shelf fungus](/standards/items/ingredients/shelf-fungus.md)
 * [Spinach](/standards/items/ingredients/spinach.md)
 * [Swiss cheese](/standards/items/ingredients/swiss-cheese.md)
 * [Toasted bagel](/standards/items/ingredients/toasted-bagel.md)
