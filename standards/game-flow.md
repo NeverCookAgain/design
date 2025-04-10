@@ -1,4 +1,4 @@
-# Game Script
+# Game script
 ## Title screen
 After booting the game, the player will enter the title screen. Only the following events should be present:
 * the game's logo,
